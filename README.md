@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/virupaa/leetcode-leethub/tree/master/1848-sum-of-unique-elements) |
+## Database
+|  |
+| ------- |
+| [1541-top-travellers](https://github.com/virupaa/leetcode-leethub/tree/master/1541-top-travellers) |
 <!---LeetCode Topics End-->
