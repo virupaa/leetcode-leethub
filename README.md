@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/virupaa/leetcode-leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1848-sum-of-unique-elements](https://github.com/virupaa/leetcode-leethub/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/virupaa/leetcode-leethub/tree/master/2159-two-out-of-three) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/virupaa/leetcode-leethub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1848-sum-of-unique-elements](https://github.com/virupaa/leetcode-leethub/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/virupaa/leetcode-leethub/tree/master/2159-two-out-of-three) |
 ## Two Pointers
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/virupaa/leetcode-leethub/tree/master/2298-count-integers-with-even-digit-sum) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/virupaa/leetcode-leethub/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
