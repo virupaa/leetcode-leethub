@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/virupaa/leetcode-leethub/tree/master/0013-roman-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/virupaa/leetcode-leethub/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Prefix Sum
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/virupaa/leetcode-leethub/tree/master/0013-roman-to-integer) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/virupaa/leetcode-leethub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-top-travellers](https://github.com/virupaa/leetcode-leethub/tree/master/1541-top-travellers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/virupaa/leetcode-leethub/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
