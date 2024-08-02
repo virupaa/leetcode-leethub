@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/virupaa/leetcode-leethub/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/virupaa/leetcode-leethub/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
+| [1297-maximum-number-of-balloons](https://github.com/virupaa/leetcode-leethub/tree/master/1297-maximum-number-of-balloons) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/virupaa/leetcode-leethub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
+| [1297-maximum-number-of-balloons](https://github.com/virupaa/leetcode-leethub/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/virupaa/leetcode-leethub/tree/master/1848-sum-of-unique-elements) |
 ## Database
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/virupaa/leetcode-leethub/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/virupaa/leetcode-leethub/tree/master/0392-is-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/virupaa/leetcode-leethub/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/virupaa/leetcode-leethub/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
