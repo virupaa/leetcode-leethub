@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/virupaa/leetcode-leethub/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/virupaa/leetcode-leethub/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/virupaa/leetcode-leethub/tree/master/0238-product-of-array-except-self) |
+| [1019-squares-of-a-sorted-array](https://github.com/virupaa/leetcode-leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/virupaa/leetcode-leethub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/virupaa/leetcode-leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/virupaa/leetcode-leethub/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/virupaa/leetcode-leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1894-merge-strings-alternately](https://github.com/virupaa/leetcode-leethub/tree/master/1894-merge-strings-alternately) |
 ## Design
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/virupaa/leetcode-leethub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/virupaa/leetcode-leethub/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/virupaa/leetcode-leethub/tree/master/0217-contains-duplicate) |
+| [1019-squares-of-a-sorted-array](https://github.com/virupaa/leetcode-leethub/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
