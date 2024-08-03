@@ -8,7 +8,7 @@ class Solution:
             for c in s:
                 count[ord(c) - ord("a")] += 1
             res[tuple(count)].append(s)
-        print(res)
+        
         return res.values()
 
         
