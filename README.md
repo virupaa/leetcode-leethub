@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/virupaa/leetcode-leethub/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/virupaa/leetcode-leethub/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/virupaa/leetcode-leethub/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/virupaa/leetcode-leethub/tree/master/0367-valid-perfect-square) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/virupaa/leetcode-leethub/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/virupaa/leetcode-leethub/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/virupaa/leetcode-leethub/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/virupaa/leetcode-leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/virupaa/leetcode-leethub/tree/master/0567-permutation-in-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virupaa/leetcode-leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/virupaa/leetcode-leethub/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/virupaa/leetcode-leethub/tree/master/1127-last-stone-weight) |
