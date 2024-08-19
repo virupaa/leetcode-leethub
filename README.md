@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/virupaa/leetcode-leethub/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/virupaa/leetcode-leethub/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/virupaa/leetcode-leethub/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/virupaa/leetcode-leethub/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virupaa/leetcode-leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/virupaa/leetcode-leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0209-minimum-size-subarray-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/virupaa/leetcode-leethub/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/virupaa/leetcode-leethub/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/virupaa/leetcode-leethub/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/virupaa/leetcode-leethub/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/virupaa/leetcode-leethub/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/virupaa/leetcode-leethub/tree/master/0392-is-subsequence) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/virupaa/leetcode-leethub/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/virupaa/leetcode-leethub/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/virupaa/leetcode-leethub/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/virupaa/leetcode-leethub/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -316,4 +319,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/virupaa/leetcode-leethub/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/virupaa/leetcode-leethub/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/virupaa/leetcode-leethub/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
