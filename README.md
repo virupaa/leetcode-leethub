@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/virupaa/leetcode-leethub/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/virupaa/leetcode-leethub/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/virupaa/leetcode-leethub/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/virupaa/leetcode-leethub/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/virupaa/leetcode-leethub/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/virupaa/leetcode-leethub/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/virupaa/leetcode-leethub/tree/master/1670-patients-with-a-condition) |
