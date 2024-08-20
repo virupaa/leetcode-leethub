@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/virupaa/leetcode-leethub/tree/master/0584-find-customer-referee) |
 | [1541-top-travellers](https://github.com/virupaa/leetcode-leethub/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/virupaa/leetcode-leethub/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/virupaa/leetcode-leethub/tree/master/1811-fix-names-in-a-table) |
