@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/virupaa/leetcode-leethub/tree/master/1292-immediate-food-delivery-ii) |
 | [1390-average-selling-price](https://github.com/virupaa/leetcode-leethub/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/virupaa/leetcode-leethub/tree/master/1415-students-and-examinations) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/virupaa/leetcode-leethub/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/virupaa/leetcode-leethub/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/virupaa/leetcode-leethub/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/virupaa/leetcode-leethub/tree/master/1670-patients-with-a-condition) |
