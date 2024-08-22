@@ -2,7 +2,6 @@ class Solution:
     def findComplement(self, num: int) -> int:
         bin_num = bin(num)
         a = list(bin_num[2:])
-        print(a)
         b = []
         for i in a:
             if i == '0':
