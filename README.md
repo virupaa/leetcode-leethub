@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/virupaa/leetcode-leethub/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/virupaa/leetcode-leethub/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/virupaa/leetcode-leethub/tree/master/1258-article-views-i) |
+| [1278-product-price-at-a-given-date](https://github.com/virupaa/leetcode-leethub/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/virupaa/leetcode-leethub/tree/master/1292-immediate-food-delivery-ii) |
 | [1390-average-selling-price](https://github.com/virupaa/leetcode-leethub/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/virupaa/leetcode-leethub/tree/master/1415-students-and-examinations) |
