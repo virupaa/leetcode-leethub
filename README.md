@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/virupaa/leetcode-leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1848-sum-of-unique-elements](https://github.com/virupaa/leetcode-leethub/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/virupaa/leetcode-leethub/tree/master/2159-two-out-of-three) |
 | [2350-find-closest-number-to-zero](https://github.com/virupaa/leetcode-leethub/tree/master/2350-find-closest-number-to-zero) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/virupaa/leetcode-leethub/tree/master/1019-squares-of-a-sorted-array) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/virupaa/leetcode-leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Matrix
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/virupaa/leetcode-leethub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/virupaa/leetcode-leethub/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/virupaa/leetcode-leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Interactive
 |  |
 | ------- |
