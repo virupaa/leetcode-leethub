@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/virupaa/leetcode-leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1833-find-the-highest-altitude](https://github.com/virupaa/leetcode-leethub/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/virupaa/leetcode-leethub/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/virupaa/leetcode-leethub/tree/master/2159-two-out-of-three) |
 | [2350-find-closest-number-to-zero](https://github.com/virupaa/leetcode-leethub/tree/master/2350-find-closest-number-to-zero) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/virupaa/leetcode-leethub/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/virupaa/leetcode-leethub/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
