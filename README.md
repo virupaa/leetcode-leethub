@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/virupaa/leetcode-leethub/tree/master/0969-number-of-recent-calls) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Bit Manipulation
 |  |
@@ -388,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/virupaa/leetcode-leethub/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/virupaa/leetcode-leethub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/virupaa/leetcode-leethub/tree/master/0079-word-search) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/virupaa/leetcode-leethub/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/virupaa/leetcode-leethub/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
