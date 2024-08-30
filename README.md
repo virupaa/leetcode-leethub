@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/virupaa/leetcode-leethub/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/virupaa/leetcode-leethub/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/virupaa/leetcode-leethub/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/virupaa/leetcode-leethub/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/virupaa/leetcode-leethub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
