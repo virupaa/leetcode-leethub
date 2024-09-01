@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/virupaa/leetcode-leethub/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/virupaa/leetcode-leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/virupaa/leetcode-leethub/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/virupaa/leetcode-leethub/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/virupaa/leetcode-leethub/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/virupaa/leetcode-leethub/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/virupaa/leetcode-leethub/tree/master/0792-binary-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/virupaa/leetcode-leethub/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/virupaa/leetcode-leethub/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/virupaa/leetcode-leethub/tree/master/1833-find-the-highest-altitude) |
