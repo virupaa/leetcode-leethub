@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/virupaa/leetcode-leethub/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/virupaa/leetcode-leethub/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/virupaa/leetcode-leethub/tree/master/0328-odd-even-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/virupaa/leetcode-leethub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/virupaa/leetcode-leethub/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/virupaa/leetcode-leethub/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/virupaa/leetcode-leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/virupaa/leetcode-leethub/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
