@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/virupaa/leetcode-leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/virupaa/leetcode-leethub/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1585-the-kth-factor-of-n](https://github.com/virupaa/leetcode-leethub/tree/master/1585-the-kth-factor-of-n) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/virupaa/leetcode-leethub/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Prefix Sum
@@ -434,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/virupaa/leetcode-leethub/tree/master/0969-number-of-recent-calls) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/virupaa/leetcode-leethub/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
