@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/virupaa/leetcode-leethub/tree/master/2350-find-closest-number-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/virupaa/leetcode-leethub/tree/master/2411-spiral-matrix-iv) |
+| [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
 ## Math
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/virupaa/leetcode-leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
 ## Interactive
 |  |
 | ------- |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
+| [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
 ## Quickselect
 |  |
 | ------- |
@@ -455,4 +458,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/virupaa/leetcode-leethub/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/virupaa/leetcode-leethub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
+## Segment Tree
+|  |
+| ------- |
+| [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
+## Merge Sort
+|  |
+| ------- |
+| [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
+## Ordered Set
+|  |
+| ------- |
+| [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
 <!---LeetCode Topics End-->
