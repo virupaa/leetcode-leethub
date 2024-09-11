@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/virupaa/leetcode-leethub/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/virupaa/leetcode-leethub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/virupaa/leetcode-leethub/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/virupaa/leetcode-leethub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/virupaa/leetcode-leethub/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/virupaa/leetcode-leethub/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/virupaa/leetcode-leethub/tree/master/0078-subsets) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/virupaa/leetcode-leethub/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virupaa/leetcode-leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/virupaa/leetcode-leethub/tree/master/0392-is-subsequence) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/virupaa/leetcode-leethub/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/virupaa/leetcode-leethub/tree/master/0055-jump-game) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/virupaa/leetcode-leethub/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2487-optimal-partition-of-string](https://github.com/virupaa/leetcode-leethub/tree/master/2487-optimal-partition-of-string) |
