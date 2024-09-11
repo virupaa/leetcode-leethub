@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/virupaa/leetcode-leethub/tree/master/1127-last-stone-weight) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/virupaa/leetcode-leethub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/virupaa/leetcode-leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1428-jump-game-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1428-jump-game-iii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/virupaa/leetcode-leethub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/virupaa/leetcode-leethub/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1428-jump-game-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/virupaa/leetcode-leethub/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/virupaa/leetcode-leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1428-jump-game-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
