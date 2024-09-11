@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/virupaa/leetcode-leethub/tree/master/2350-find-closest-number-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/virupaa/leetcode-leethub/tree/master/2411-spiral-matrix-iv) |
+| [2555-design-sql](https://github.com/virupaa/leetcode-leethub/tree/master/2555-design-sql) |
 | [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
 ## Math
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/virupaa/leetcode-leethub/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/virupaa/leetcode-leethub/tree/master/2159-two-out-of-three) |
 | [2487-optimal-partition-of-string](https://github.com/virupaa/leetcode-leethub/tree/master/2487-optimal-partition-of-string) |
+| [2555-design-sql](https://github.com/virupaa/leetcode-leethub/tree/master/2555-design-sql) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/virupaa/leetcode-leethub/tree/master/0969-number-of-recent-calls) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [2555-design-sql](https://github.com/virupaa/leetcode-leethub/tree/master/2555-design-sql) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/virupaa/leetcode-leethub/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/virupaa/leetcode-leethub/tree/master/2487-optimal-partition-of-string) |
+| [2555-design-sql](https://github.com/virupaa/leetcode-leethub/tree/master/2555-design-sql) |
 ## Dynamic Programming
 |  |
 | ------- |
