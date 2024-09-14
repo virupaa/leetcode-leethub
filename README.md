@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/virupaa/leetcode-leethub/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/virupaa/leetcode-leethub/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1307-ugly-number-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1307-ugly-number-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/virupaa/leetcode-leethub/tree/master/1585-the-kth-factor-of-n) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/virupaa/leetcode-leethub/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/virupaa/leetcode-leethub/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/virupaa/leetcode-leethub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1307-ugly-number-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1307-ugly-number-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/virupaa/leetcode-leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/virupaa/leetcode-leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1307-ugly-number-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1307-ugly-number-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/virupaa/leetcode-leethub/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/virupaa/leetcode-leethub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Indexed Tree
@@ -533,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/virupaa/leetcode-leethub/tree/master/0207-course-schedule) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
