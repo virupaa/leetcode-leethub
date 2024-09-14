@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/virupaa/leetcode-leethub/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/virupaa/leetcode-leethub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/virupaa/leetcode-leethub/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0410-split-array-largest-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/virupaa/leetcode-leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/virupaa/leetcode-leethub/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/virupaa/leetcode-leethub/tree/master/0724-find-pivot-index) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/virupaa/leetcode-leethub/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/virupaa/leetcode-leethub/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virupaa/leetcode-leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/virupaa/leetcode-leethub/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0410-split-array-largest-sum) |
 | [2001-jump-game-vii](https://github.com/virupaa/leetcode-leethub/tree/master/2001-jump-game-vii) |
 ## Trie
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/virupaa/leetcode-leethub/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/virupaa/leetcode-leethub/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0410-split-array-largest-sum) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/virupaa/leetcode-leethub/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2487-optimal-partition-of-string](https://github.com/virupaa/leetcode-leethub/tree/master/2487-optimal-partition-of-string) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/virupaa/leetcode-leethub/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/virupaa/leetcode-leethub/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/virupaa/leetcode-leethub/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/virupaa/leetcode-leethub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/virupaa/leetcode-leethub/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
