@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/virupaa/leetcode-leethub/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1127-last-stone-weight](https://github.com/virupaa/leetcode-leethub/tree/master/1127-last-stone-weight) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/virupaa/leetcode-leethub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/virupaa/leetcode-leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/virupaa/leetcode-leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1428-jump-game-iii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/virupaa/leetcode-leethub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1307-ugly-number-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1307-ugly-number-iii) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/virupaa/leetcode-leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/virupaa/leetcode-leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/virupaa/leetcode-leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
