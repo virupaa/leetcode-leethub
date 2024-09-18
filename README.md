@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/virupaa/leetcode-leethub/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/virupaa/leetcode-leethub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/virupaa/leetcode-leethub/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0410-split-array-largest-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/virupaa/leetcode-leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/virupaa/leetcode-leethub/tree/master/0682-baseball-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/virupaa/leetcode-leethub/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/virupaa/leetcode-leethub/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/virupaa/leetcode-leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/virupaa/leetcode-leethub/tree/master/0567-permutation-in-string) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/virupaa/leetcode-leethub/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/virupaa/leetcode-leethub/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/virupaa/leetcode-leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
@@ -500,12 +505,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/virupaa/leetcode-leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/virupaa/leetcode-leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -514,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 ## Backtracking
 |  |
