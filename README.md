@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/virupaa/leetcode-leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/virupaa/leetcode-leethub/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/virupaa/leetcode-leethub/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/virupaa/leetcode-leethub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/virupaa/leetcode-leethub/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/virupaa/leetcode-leethub/tree/master/0048-rotate-image) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/virupaa/leetcode-leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/virupaa/leetcode-leethub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/virupaa/leetcode-leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/virupaa/leetcode-leethub/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/virupaa/leetcode-leethub/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/virupaa/leetcode-leethub/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/0151-reverse-words-in-a-string) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/virupaa/leetcode-leethub/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/virupaa/leetcode-leethub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/virupaa/leetcode-leethub/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virupaa/leetcode-leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/virupaa/leetcode-leethub/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/virupaa/leetcode-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/virupaa/leetcode-leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/virupaa/leetcode-leethub/tree/master/0394-decode-string) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/virupaa/leetcode-leethub/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/virupaa/leetcode-leethub/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
