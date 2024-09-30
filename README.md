@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/virupaa/leetcode-leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/virupaa/leetcode-leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1428-jump-game-iii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/virupaa/leetcode-leethub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/virupaa/leetcode-leethub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/virupaa/leetcode-leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/virupaa/leetcode-leethub/tree/master/0271-encode-and-decode-strings) |
 | [0731-my-calendar-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0731-my-calendar-ii) |
 | [0969-number-of-recent-calls](https://github.com/virupaa/leetcode-leethub/tree/master/0969-number-of-recent-calls) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/virupaa/leetcode-leethub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2555-design-sql](https://github.com/virupaa/leetcode-leethub/tree/master/2555-design-sql) |
 ## Bit Manipulation
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/virupaa/leetcode-leethub/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/virupaa/leetcode-leethub/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/virupaa/leetcode-leethub/tree/master/0739-daily-temperatures) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/virupaa/leetcode-leethub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2470-removing-stars-from-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
