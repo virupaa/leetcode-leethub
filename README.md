@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/virupaa/leetcode-leethub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/virupaa/leetcode-leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/virupaa/leetcode-leethub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/virupaa/leetcode-leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/virupaa/leetcode-leethub/tree/master/1297-maximum-number-of-balloons) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/virupaa/leetcode-leethub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/virupaa/leetcode-leethub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/virupaa/leetcode-leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/virupaa/leetcode-leethub/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/virupaa/leetcode-leethub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/virupaa/leetcode-leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/virupaa/leetcode-leethub/tree/master/1848-sum-of-unique-elements) |
 ## Database
