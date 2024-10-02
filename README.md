@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/virupaa/leetcode-leethub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/virupaa/leetcode-leethub/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1127-last-stone-weight](https://github.com/virupaa/leetcode-leethub/tree/master/1127-last-stone-weight) |
+| [1256-rank-transform-of-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1256-rank-transform-of-an-array) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/virupaa/leetcode-leethub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/virupaa/leetcode-leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/virupaa/leetcode-leethub/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/virupaa/leetcode-leethub/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
+| [1256-rank-transform-of-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/virupaa/leetcode-leethub/tree/master/1297-maximum-number-of-balloons) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/virupaa/leetcode-leethub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/virupaa/leetcode-leethub/tree/master/1019-squares-of-a-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/1256-rank-transform-of-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/virupaa/leetcode-leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
