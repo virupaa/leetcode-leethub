@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/virupaa/leetcode-leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/virupaa/leetcode-leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/virupaa/leetcode-leethub/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/virupaa/leetcode-leethub/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/virupaa/leetcode-leethub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/virupaa/leetcode-leethub/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0410-split-array-largest-sum) |
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/virupaa/leetcode-leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/virupaa/leetcode-leethub/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2487-optimal-partition-of-string](https://github.com/virupaa/leetcode-leethub/tree/master/2487-optimal-partition-of-string) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/virupaa/leetcode-leethub/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/virupaa/leetcode-leethub/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/virupaa/leetcode-leethub/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/virupaa/leetcode-leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/virupaa/leetcode-leethub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2470-removing-stars-from-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/virupaa/leetcode-leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
