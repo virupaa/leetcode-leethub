@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/virupaa/leetcode-leethub/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/virupaa/leetcode-leethub/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/virupaa/leetcode-leethub/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/virupaa/leetcode-leethub/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/virupaa/leetcode-leethub/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/virupaa/leetcode-leethub/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/virupaa/leetcode-leethub/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/virupaa/leetcode-leethub/tree/master/0592-fraction-addition-and-subtraction) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/virupaa/leetcode-leethub/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/virupaa/leetcode-leethub/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/virupaa/leetcode-leethub/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/virupaa/leetcode-leethub/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
