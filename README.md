@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/virupaa/leetcode-leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/virupaa/leetcode-leethub/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/virupaa/leetcode-leethub/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
