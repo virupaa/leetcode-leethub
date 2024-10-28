@@ -1,14 +1,18 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        def feasible(speed):
-            return sum(math.ceil(pile / speed) for pile in piles) <= h
-        
-        left, right = 1, max(piles)
-        while left < right:
-            mid = left + (right - left) // 2
-            if feasible(mid):
-                right = mid
-                
+        l, r = 1, max(piles)
+        res = r # the result will be atleast r
+        while l <= r:
+            k = (l + r) // 2
+            hours = 0
+            for p in piles:
+                hours += math.ceil(p/k)
+            if hours <= h:
+                res = min(res, k)
+                r = k - 1
             else:
-                left = mid + 1
-        return left
+                l = k + 1
+        return res
+
+
+        
