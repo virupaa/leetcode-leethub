@@ -4,13 +4,15 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        q = collections.deque()
+        q.append(root)
         res = []
-        q = deque([root])
-        
         while q:
             rightSide = None
+            qLen = len(q)
             for i in range(len(q)):
                 node = q.popleft()
                 if node:
@@ -21,9 +23,4 @@ class Solution:
                 res.append(rightSide.val)
         return res
 
-
-
-
-        
-        
         
