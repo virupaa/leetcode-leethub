@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/virupaa/leetcode-leethub/tree/master/0271-encode-and-decode-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0731-my-calendar-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0731-my-calendar-ii) |
 | [0969-number-of-recent-calls](https://github.com/virupaa/leetcode-leethub/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/virupaa/leetcode-leethub/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/virupaa/leetcode-leethub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0271-encode-and-decode-strings](https://github.com/virupaa/leetcode-leethub/tree/master/0271-encode-and-decode-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/virupaa/leetcode-leethub/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/virupaa/leetcode-leethub/tree/master/0394-decode-string) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/virupaa/leetcode-leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/virupaa/leetcode-leethub/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/virupaa/leetcode-leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0543-diameter-of-binary-tree) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/virupaa/leetcode-leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/virupaa/leetcode-leethub/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/virupaa/leetcode-leethub/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/virupaa/leetcode-leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/virupaa/leetcode-leethub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/virupaa/leetcode-leethub/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/virupaa/leetcode-leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -541,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/virupaa/leetcode-leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/virupaa/leetcode-leethub/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/virupaa/leetcode-leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0543-diameter-of-binary-tree) |
