@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-design-sql](https://github.com/virupaa/leetcode-leethub/tree/master/2555-design-sql) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/virupaa/leetcode-leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/2755-extra-characters-in-a-string) |
 ## Math
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2468-valid-palindrome-iv](https://github.com/virupaa/leetcode-leethub/tree/master/2468-valid-palindrome-iv) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/virupaa/leetcode-leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/virupaa/leetcode-leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/virupaa/leetcode-leethub/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Interactive
 |  |
 | ------- |
