@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/virupaa/leetcode-leethub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/virupaa/leetcode-leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/virupaa/leetcode-leethub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/virupaa/leetcode-leethub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/virupaa/leetcode-leethub/tree/master/1694-make-sum-divisible-by-p) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/virupaa/leetcode-leethub/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/virupaa/leetcode-leethub/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/virupaa/leetcode-leethub/tree/master/1019-squares-of-a-sorted-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/virupaa/leetcode-leethub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/virupaa/leetcode-leethub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/virupaa/leetcode-leethub/tree/master/1894-merge-strings-alternately) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/virupaa/leetcode-leethub/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/virupaa/leetcode-leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/virupaa/leetcode-leethub/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/virupaa/leetcode-leethub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2470-removing-stars-from-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/virupaa/leetcode-leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/virupaa/leetcode-leethub/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/virupaa/leetcode-leethub/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/virupaa/leetcode-leethub/tree/master/0883-car-fleet) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/virupaa/leetcode-leethub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |
 | ------- |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1307-ugly-number-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/virupaa/leetcode-leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/virupaa/leetcode-leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/virupaa/leetcode-leethub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/virupaa/leetcode-leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/virupaa/leetcode-leethub/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/virupaa/leetcode-leethub/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
