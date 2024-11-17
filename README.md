@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/virupaa/leetcode-leethub/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/virupaa/leetcode-leethub/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/virupaa/leetcode-leethub/tree/master/0883-car-fleet) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/virupaa/leetcode-leethub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/virupaa/leetcode-leethub/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/virupaa/leetcode-leethub/tree/master/1019-squares-of-a-sorted-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/virupaa/leetcode-leethub/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/virupaa/leetcode-leethub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/virupaa/leetcode-leethub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/virupaa/leetcode-leethub/tree/master/1694-make-sum-divisible-by-p) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/virupaa/leetcode-leethub/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0731-my-calendar-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/virupaa/leetcode-leethub/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/virupaa/leetcode-leethub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/virupaa/leetcode-leethub/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/virupaa/leetcode-leethub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/virupaa/leetcode-leethub/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/virupaa/leetcode-leethub/tree/master/0643-maximum-average-subarray-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/virupaa/leetcode-leethub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/virupaa/leetcode-leethub/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/virupaa/leetcode-leethub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/virupaa/leetcode-leethub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/virupaa/leetcode-leethub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/virupaa/leetcode-leethub/tree/master/1127-last-stone-weight) |
 ## Divide and Conquer
@@ -656,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/virupaa/leetcode-leethub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/virupaa/leetcode-leethub/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -708,4 +714,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/virupaa/leetcode-leethub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/virupaa/leetcode-leethub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
