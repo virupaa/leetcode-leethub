@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/virupaa/leetcode-leethub/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0410-split-array-largest-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/virupaa/leetcode-leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/virupaa/leetcode-leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/virupaa/leetcode-leethub/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/virupaa/leetcode-leethub/tree/master/0724-find-pivot-index) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/virupaa/leetcode-leethub/tree/master/0367-valid-perfect-square) |
 | [0592-fraction-addition-and-subtraction](https://github.com/virupaa/leetcode-leethub/tree/master/0592-fraction-addition-and-subtraction) |
+| [0628-maximum-product-of-three-numbers](https://github.com/virupaa/leetcode-leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/virupaa/leetcode-leethub/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/virupaa/leetcode-leethub/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/virupaa/leetcode-leethub/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/virupaa/leetcode-leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/virupaa/leetcode-leethub/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/virupaa/leetcode-leethub/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/virupaa/leetcode-leethub/tree/master/0883-car-fleet) |
