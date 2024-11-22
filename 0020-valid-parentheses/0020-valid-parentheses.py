@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        hashmap = {'}':'{', ']':'[', ')':'('}
+        hashmap = {'}':'{', ')':'(', ']':'['}
         for c in s:
             if c in hashmap:
                 if stack and hashmap[c] == stack[-1]:
@@ -10,7 +10,7 @@ class Solution:
                     return False
             else:
                 stack.append(c)
-        return True if not stack else False
+        return not stack
 
         
         
