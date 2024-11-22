@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/virupaa/leetcode-leethub/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
+| [0359-logger-rate-limiter](https://github.com/virupaa/leetcode-leethub/tree/master/0359-logger-rate-limiter) |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/virupaa/leetcode-leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/virupaa/leetcode-leethub/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0359-logger-rate-limiter](https://github.com/virupaa/leetcode-leethub/tree/master/0359-logger-rate-limiter) |
 | [0731-my-calendar-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/virupaa/leetcode-leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/virupaa/leetcode-leethub/tree/master/0969-number-of-recent-calls) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/virupaa/leetcode-leethub/tree/master/0359-logger-rate-limiter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/virupaa/leetcode-leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/virupaa/leetcode-leethub/tree/master/0969-number-of-recent-calls) |
 ## Number Theory
