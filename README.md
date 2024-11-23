@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/virupaa/leetcode-leethub/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/virupaa/leetcode-leethub/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/virupaa/leetcode-leethub/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/virupaa/leetcode-leethub/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/virupaa/leetcode-leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/virupaa/leetcode-leethub/tree/master/0367-valid-perfect-square) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/virupaa/leetcode-leethub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/virupaa/leetcode-leethub/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/virupaa/leetcode-leethub/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virupaa/leetcode-leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/virupaa/leetcode-leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/virupaa/leetcode-leethub/tree/master/0152-maximum-product-subarray) |
@@ -732,4 +734,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/virupaa/leetcode-leethub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/virupaa/leetcode-leethub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
