@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/virupaa/leetcode-leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/virupaa/leetcode-leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/virupaa/leetcode-leethub/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/virupaa/leetcode-leethub/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/virupaa/leetcode-leethub/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/virupaa/leetcode-leethub/tree/master/0735-asteroid-collision) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/virupaa/leetcode-leethub/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/virupaa/leetcode-leethub/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/virupaa/leetcode-leethub/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/virupaa/leetcode-leethub/tree/master/0695-max-area-of-island) |
 | [2411-spiral-matrix-iv](https://github.com/virupaa/leetcode-leethub/tree/master/2411-spiral-matrix-iv) |
 ## Greedy
 |  |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/virupaa/leetcode-leethub/tree/master/0695-max-area-of-island) |
 | [0904-leaf-similar-trees](https://github.com/virupaa/leetcode-leethub/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/virupaa/leetcode-leethub/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/virupaa/leetcode-leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/virupaa/leetcode-leethub/tree/master/0695-max-area-of-island) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/virupaa/leetcode-leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/virupaa/leetcode-leethub/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/virupaa/leetcode-leethub/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
