@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/2755-extra-characters-in-a-string) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/virupaa/leetcode-leethub/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Math
 |  |
 | ------- |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/virupaa/leetcode-leethub/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/virupaa/leetcode-leethub/tree/master/0207-course-schedule) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/virupaa/leetcode-leethub/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
