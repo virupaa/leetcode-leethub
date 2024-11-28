@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/virupaa/leetcode-leethub/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/virupaa/leetcode-leethub/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2350-find-closest-number-to-zero](https://github.com/virupaa/leetcode-leethub/tree/master/2350-find-closest-number-to-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/virupaa/leetcode-leethub/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/virupaa/leetcode-leethub/tree/master/2411-spiral-matrix-iv) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/virupaa/leetcode-leethub/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/virupaa/leetcode-leethub/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/virupaa/leetcode-leethub/tree/master/0695-max-area-of-island) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/virupaa/leetcode-leethub/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/virupaa/leetcode-leethub/tree/master/2411-spiral-matrix-iv) |
 ## Greedy
 |  |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/virupaa/leetcode-leethub/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/virupaa/leetcode-leethub/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/virupaa/leetcode-leethub/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/virupaa/leetcode-leethub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/virupaa/leetcode-leethub/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/virupaa/leetcode-leethub/tree/master/1127-last-stone-weight) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/virupaa/leetcode-leethub/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/virupaa/leetcode-leethub/tree/master/0207-course-schedule) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/virupaa/leetcode-leethub/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/virupaa/leetcode-leethub/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
@@ -763,4 +768,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/virupaa/leetcode-leethub/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/virupaa/leetcode-leethub/tree/master/0139-word-break) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/virupaa/leetcode-leethub/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
