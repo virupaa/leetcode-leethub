@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/virupaa/leetcode-leethub/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [2201-valid-arrangement-of-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2201-valid-arrangement-of-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/virupaa/leetcode-leethub/tree/master/0207-course-schedule) |
+| [2201-valid-arrangement-of-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/virupaa/leetcode-leethub/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/virupaa/leetcode-leethub/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
@@ -778,4 +780,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/virupaa/leetcode-leethub/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
