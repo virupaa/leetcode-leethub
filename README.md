@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/virupaa/leetcode-leethub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-design-sql](https://github.com/virupaa/leetcode-leethub/tree/master/2555-design-sql) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/virupaa/leetcode-leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/virupaa/leetcode-leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/2755-extra-characters-in-a-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/virupaa/leetcode-leethub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-design-sql](https://github.com/virupaa/leetcode-leethub/tree/master/2555-design-sql) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/virupaa/leetcode-leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/virupaa/leetcode-leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/2755-extra-characters-in-a-string) |
 ## Two Pointers
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/virupaa/leetcode-leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/virupaa/leetcode-leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/virupaa/leetcode-leethub/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/virupaa/leetcode-leethub/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2487-optimal-partition-of-string](https://github.com/virupaa/leetcode-leethub/tree/master/2487-optimal-partition-of-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/virupaa/leetcode-leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/virupaa/leetcode-leethub/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/virupaa/leetcode-leethub/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/virupaa/leetcode-leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/virupaa/leetcode-leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2658-count-the-number-of-k-big-indices](https://github.com/virupaa/leetcode-leethub/tree/master/2658-count-the-number-of-k-big-indices) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/virupaa/leetcode-leethub/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Interactive
