@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/virupaa/leetcode-leethub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/virupaa/leetcode-leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/virupaa/leetcode-leethub/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/virupaa/leetcode-leethub/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/virupaa/leetcode-leethub/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0359-logger-rate-limiter](https://github.com/virupaa/leetcode-leethub/tree/master/0359-logger-rate-limiter) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/virupaa/leetcode-leethub/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/virupaa/leetcode-leethub/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/virupaa/leetcode-leethub/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/virupaa/leetcode-leethub/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/virupaa/leetcode-leethub/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/virupaa/leetcode-leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/virupaa/leetcode-leethub/tree/master/0383-ransom-note) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/virupaa/leetcode-leethub/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/virupaa/leetcode-leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/virupaa/leetcode-leethub/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/virupaa/leetcode-leethub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/virupaa/leetcode-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/virupaa/leetcode-leethub/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/virupaa/leetcode-leethub/tree/master/0628-maximum-product-of-three-numbers) |
